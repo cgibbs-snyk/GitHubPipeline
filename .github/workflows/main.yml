@@ -4,6 +4,7 @@ name: Prebuilt repo + Snyk Security Scanning (OS, Code, Docker, IaC and Snyk Fil
 # Snyk installation via npm.
 # Node.js version: 18.4
 # Outputs the results to json file then Snyk-to-htm outputs to HTML files/GitHub Artifact
+# trigger run
 
 # Prerequisites:
 # - Set a SNYK_TOKEN in the pipelines secrets  
